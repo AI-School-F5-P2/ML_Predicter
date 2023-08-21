@@ -1,4 +1,5 @@
 env_ml/
+kc_house_data.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
